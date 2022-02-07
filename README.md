@@ -1,11 +1,32 @@
 <h1 align="center">Hi 👋, I'm Maria Lövgren</h1>
 <h3 align="center">A passionate frontend developer from south of Sweden</h3>
 
-- 🌱 I’m currently learning **Node JS, Express, REST, MongoDB, MySQL**
+🌱 I’m currently learning **JavaScript, Node JS, Express, REST, MongoDB, MySQL**
 
-- 📫 How to reach me **marialovgren86@hotmail.com**
+📫 How to reach me: **marialovgren86@hotmail.com**
 
-- ⚡ Fun fact **I love knitting**
+⚡ Fun fact: **I love knitting**
+
+### What I have learned so far:
+ - HTML
+ - CSS
+ - Bootstrap
+ - vanilla JavaScript
+ - Adobe Creative Cloud (Photoshop, Illustrator and XD)
+ - git and GitHub
+ - Figma
+
+### What I will have learned by June 2022:
+
+ - NodeJs
+ - Express
+ - MongoDB
+ - mySQL
+ - TypeScript
+ - React
+ - APIs
+ - Agile methodologies
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
