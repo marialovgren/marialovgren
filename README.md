@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Lövgren</h1>
 <h3 align="center">A passionate frontend developer from south of Sweden</h3>
 
-<img align="right" src="https://github.com/marialovgren/profile/blob/main/images/maria-portfolio-small.png" width="260">
+<img align="right" src="https://github.com/marialovgren/marialovgren.github.io/blob/main/assets/images/maria-portfolio-small.png" width="260">
 
 🌱 I’m currently learning **JavaScript, Node JS, Express, REST, MongoDB, MySQL**
 
