@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **React and Vue**
 
-📫 How to reach me: **marialovgren86@hotmail.com**
+📫 How to reach me: Email **marialovgren86@hotmail.com** & Portfolio **https://marialovgren.github.io**
 
 ⚡ Fun fact: **I love knitting**
 
