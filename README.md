@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/marialovgren/marialovgren.github.io/blob/main/assets/images/maria-portfolio-small.png" width="260">
 
-🌱 I’m currently learning **JavaScript, Node JS, Express, REST, MongoDB, MySQL**
+🌱 I’m currently learning **React and Vue**
 
 📫 How to reach me: **marialovgren86@hotmail.com**
 
@@ -17,14 +17,14 @@
  - Adobe Creative Cloud (Photoshop, Illustrator and XD)
  - git and GitHub
  - Figma
+ - Node JS
+ - Express
+ - REST API
+ - MongoDB
+ - MySQL
 
 ### What I will have learned by June 2022:
 
- - NodeJs
- - Express
- - MongoDB
- - mySQL
- - TypeScript
  - React
  - APIs
  - Agile methodologies
