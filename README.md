@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/marialovgren/marialovgren.github.io/blob/main/assets/images/maria-portfolio-small.png" width="260">
 
-🌱 I’m currently learning **React and Vue**
+🌱 I’m currently learning **React**
 
 📫 How to reach me: Email **marialovgren86@hotmail.com** & Portfolio **https://marialovgren.github.io**
 
@@ -22,9 +22,7 @@
  - REST API
  - MongoDB
  - MySQL
-
-### What I will have learned by June 2022:
-
+ - Vue
  - React
  - APIs
  - Agile methodologies
