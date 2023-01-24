@@ -3,8 +3,6 @@
 
 <img align="right" src="https://github.com/marialovgren/marialovgren.github.io/blob/main/assets/images/maria-portfolio-small.png" width="260">
 
-🌱 I’m currently learning **React**
-
 📫 How to reach me: Email **marialovgren86@hotmail.com** & Portfolio **https://marialovgren.github.io**
 
 ⚡ Fun fact: **I love knitting**
@@ -15,7 +13,7 @@
  - Bootstrap
  - vanilla JavaScript
  - Adobe Creative Cloud (Photoshop, Illustrator and XD)
- - git and GitHub
+ - Git and GitHub
  - Figma
  - Node JS
  - Express
@@ -26,6 +24,7 @@
  - React
  - APIs
  - Agile methodologies
+ - React
 
 
 <h3 align="left">Connect with me:</h3>
