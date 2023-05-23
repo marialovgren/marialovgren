@@ -7,7 +7,6 @@
 
 ⚡ Fun fact: **I love knitting**
 
-### What I have learned so far:
  - HTML
  - CSS
  - Bootstrap
