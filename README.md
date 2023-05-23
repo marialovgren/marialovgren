@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/marialovgren/marialovgren.github.io/blob/main/assets/images/maria-portfolio-small.png" width="260">
 
-📫 How to reach me: Email **marialovgren86@hotmail.com** & Portfolio **https://marialovgren.github.io**
+📫 How to reach me: Email **marialovgren86@hotmail.com** 
 
 ⚡ Fun fact: **I love knitting**
 
